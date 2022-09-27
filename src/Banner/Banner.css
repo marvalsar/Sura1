@@ -1,0 +1,15 @@
+.banner{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/fotosantojolmm.appspot.com/o/thestocks.jpg?alt=media&token=a62a3be1-077c-4546-ba41-47294d12ad4f");
+    background-position: top center;
+    background-size: cover;
+    padding: 30% 20% 30% 20%;
+}
+.titulo{
+    text-align: center;
+    
+
+}
+.sinopsis{
+    text-align: justify;
+
+}
